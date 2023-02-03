@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ced3fdd4-2b68-4cfc-954c-26f2f71f4d85" name="Changes" comment="primeiro commit hashflix">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ced3fdd4-2b68-4cfc-954c-26f2f71f4d85" name="Changes" comment="detalhes filmes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filme/templates/homefilmes.html" beforeDir="false" afterPath="$PROJECT_DIR$/filme/templates/homefilmes.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/filme/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/filme/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filme/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/filme/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hashflix/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/hashflix/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/navbar.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +59,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675192528797</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="detalhes filmes">
+      <created>1675380429765</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675380429765</updated>
+    </task>
+    <task id="LOCAL-00003" summary="detalhes filmes">
+      <created>1675380448793</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675380448793</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,6 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primeiro commit hashflix" />
-    <option name="LAST_COMMIT_MESSAGE" value="primeiro commit hashflix" />
+    <MESSAGE value="detalhes filmes" />
+    <option name="LAST_COMMIT_MESSAGE" value="detalhes filmes" />
   </component>
 </project>
