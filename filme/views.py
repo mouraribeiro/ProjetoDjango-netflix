@@ -12,6 +12,7 @@ class Homefilmes(ListView):
     template_name = "homefilmes.html"
     model = Filme
 
+
 class Detalhesfilme(DetailView):
     template_name = "detalhesfilme.html"
     model = Filme

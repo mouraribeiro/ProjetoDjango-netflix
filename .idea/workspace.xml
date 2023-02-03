@@ -6,10 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="ced3fdd4-2b68-4cfc-954c-26f2f71f4d85" name="Changes" comment="detalhes filmes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filme/templates/homefilmes.html" beforeDir="false" afterPath="$PROJECT_DIR$/filme/templates/homefilmes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filme/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/filme/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hashflix/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/hashflix/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filme/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/filme/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filme/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/filme/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filme/templates/detalhesfilme.html" beforeDir="false" afterPath="$PROJECT_DIR$/filme/templates/detalhesfilme.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filme/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/filme/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -73,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675380448793</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="detalhes filmes">
+      <created>1675383920476</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675383920477</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
